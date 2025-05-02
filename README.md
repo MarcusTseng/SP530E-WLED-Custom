@@ -20,10 +20,10 @@ Download C3_bootloader.bin and C3_partitions_4M.bin [Here](https://github.com/Ai
 
 ### I/O Pins:  
 On Board Button GPIO 8  
-On Board Mic GPIO 3  ( [not supported in WLED](https://github.com/wled/WLED/blob/main/usermods/audioreactive/readme.md#supported-mcus) )
-On Board Blue LED GPIO 0 (Inverted) 
+On Board Mic GPIO 3  ( [not supported in WLED](https://github.com/wled/WLED/blob/main/usermods/audioreactive/readme.md#supported-mcus) )  
+On Board Blue LED GPIO 0 (Inverted)  
 On Board Green LED GPIO 1 (Inverted)  
-  (Add an output in WLED on the above GPIO and set it.)
+  (Add an output in WLED on the above GPIO and set it.)  
 LED DAT Output GPIO 19  
 
 ### Analog Pins:  
