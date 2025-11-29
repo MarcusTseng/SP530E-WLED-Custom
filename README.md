@@ -8,6 +8,8 @@ Download C3_bootloader.bin and C3_partitions_4M.bin [Here](https://github.com/Ai
 
 ### Connect UART Cable to board's reverse side  
 
+Note: io9 -> gnd to enable flash mode
+
 ### Use this Command below to backup the original firmware.  
 ```
 ./esptool read_flash 0 0x400000 sp530e-encrypted.bin  
